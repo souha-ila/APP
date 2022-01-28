@@ -59,13 +59,13 @@ The purpose of this application is to delivers unique content on Culture, Countr
 
 ##	Technical choices
 
-# [MAMP](https://www.mamp.info/en/windows/)
+### [MAMP](https://www.mamp.info/en/windows/)
 
 ![Mamp](https://www.netfox2.net/modules/wfdownloads/images/screenshots/Mamp_Windows.jpg)
 
 MAMP is a free, local server environment that can be installed under macOS and Windows with just a few clicks. MAMP provides them with all the tools they need to run WordPress on their desktop PC for testing or development purposes, for example. You can even easily test your projects on mobile devices. It does not matter whether you prefer the web server Apache or Nginx in addition to MySQL as database server, or whether you want to work with PHP, Python, Perl or Ruby.
 
-# [Visual studio Code](https://code.visualstudio.com)
+### [Visual studio Code](https://code.visualstudio.com)
 
 ![visual](https://lesjoiesducode.fr/content/045/vs-code-logo.png)
 
@@ -74,6 +74,41 @@ Visual Studio Code est un éditeur de code extensible développé par Microsoft 
 Les fonctionnalités incluent la prise en charge du débogage, la mise en évidence de la syntaxe, la complétion intelligente du code, les snippets, la refactorisation du code et Git intégré. Les utilisateurs peuvent modifier le thème, les raccourcis clavier, les préférences et installer des extensions qui ajoutent des fonctionnalités supplémentaires.
 
 Le code source de Visual Studio Code provient du projet logiciel libre et open source VSCode de Microsoft publié sous la licence MIT permissive, mais les binaires compilés constituent un freeware, c'est-à-dire un logiciel gratuit pour toute utilisation mais privateur.
+
+### [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
+
+![HTML](https://www.develop4fun.fr/wp-content/uploads/2019/08/html-2.jpg)
+
+Il est utilisé afin de créer et de représenter le contenu d'une page web et sa structure. D'autres technologies sont utilisées avec HTML pour décrire la présentation d'une page (CSS) et/ou ses fonctionnalités interactives (JavaScript).
+
+
+### [PHP](https://fr.wikipedia.org/wiki/PHP)
+
+![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png)
+PHP: Hypertext Preprocessor, better known by its acronym PHP (self-referential acronym), is a free programming language, mainly used to produce dynamic Web pages via an HTTP server, but which can also function as any interpreted language of local way. PHP is an imperative object-oriented language.
+
+PHP has been used to create a large number of famous websites, such as Facebook and Wikipedia. It is considered one of the bases for the creation of so-called dynamic websites but also web applications.
+
+
+### [apache](https://fr.wikipedia.org/wiki/Apache_HTTP_Server)
+
+
+![apache](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/langfr-2560px-Apache_HTTP_server_logo_%282019-present%29.svg.png)
+
+The free software Apache HTTP Server (Apache) is an HTTP server created and maintained within the Apache Foundation. Until April 20192, it was the most popular HTTP server in the World Wide Web. It is distributed under the terms of the Apache License.
+
+
+
+
+### [MYSQL](https://www.mysql.com/fr/)
+
+
+![sql](https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png)
+
+
+MySQL Database Service is a fully managed database service for deploying cloud native applications using the world's most popular open source database. This service is developed, managed and 100% supported by the MySQL team.
+
+
 
 
 
