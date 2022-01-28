@@ -38,11 +38,11 @@ Our project consists of the creation, analysis, design and implementation of a d
  
 ## Abreviations list 
  
-| Abreviations  	   | Meaning  	                            | 
-|---	               |---   	                                |
-|  UML 	             |Unified Modeling Language      	        |
-|   	               |                                       	|
-|   	               |   	                                    |
+| Abreviations  	   | Meaning  	                                                                        | 
+|---	               |---   	                                                                            |
+|  UML 	             |Unified Modeling Language      	                                                    |
+|  MAMP              | Stands for "Mac OS X, Apache, MySQL, and PHP                                      	|
+|   	               |   	                                                                                |
  
 
 ## **Presentation**
@@ -65,6 +65,15 @@ The purpose of this application is to delivers unique content on Culture, Countr
 
 MAMP is a free, local server environment that can be installed under macOS and Windows with just a few clicks. MAMP provides them with all the tools they need to run WordPress on their desktop PC for testing or development purposes, for example. You can even easily test your projects on mobile devices. It does not matter whether you prefer the web server Apache or Nginx in addition to MySQL as database server, or whether you want to work with PHP, Python, Perl or Ruby.
 
+# [Visual studio Code](https://code.visualstudio.com)
+
+![visual](https://lesjoiesducode.fr/content/045/vs-code-logo.png)
+
+Visual Studio Code est un éditeur de code extensible développé par Microsoft pour Windows, Linux et macOS2.
+
+Les fonctionnalités incluent la prise en charge du débogage, la mise en évidence de la syntaxe, la complétion intelligente du code, les snippets, la refactorisation du code et Git intégré. Les utilisateurs peuvent modifier le thème, les raccourcis clavier, les préférences et installer des extensions qui ajoutent des fonctionnalités supplémentaires.
+
+Le code source de Visual Studio Code provient du projet logiciel libre et open source VSCode de Microsoft publié sous la licence MIT permissive, mais les binaires compilés constituent un freeware, c'est-à-dire un logiciel gratuit pour toute utilisation mais privateur.
 
 
 
