@@ -42,8 +42,10 @@ Our project consists of the creation, analysis, design and implementation of a d
 |---	               |---   	                                                                            |
 |  UML 	             |Unified Modeling Language      	                                                    |
 |  MAMP              | Stands for "Mac OS X, Apache, MySQL, and PHP                                      	|
-|   	               |   	                                                                                |
- 
+|  SQL	             | structured query language  	                                                      |
+|  PHP               |Hypertext Preprocessor 	                                                            | 
+|   JS               |JavaScript                                                                          |
+|  HTML              |Hypertext Markup Language	                                                          |
 
 ## **Presentation**
                                                                          
@@ -107,6 +109,16 @@ The free software Apache HTTP Server (Apache) is an HTTP server created and main
 
 
 MySQL Database Service is a fully managed database service for deploying cloud native applications using the world's most popular open source database. This service is developed, managed and 100% supported by the MySQL team.
+
+
+### [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+
+
+![js](https://blog.lesjeudis.com/wp-content/uploads/2020/12/Screenshot-2020-12-02-at-15.31.17-1.png)
+
+
+JavaScript (often abbreviated as "JS") is a lightweight, object-oriented scripting language, primarily known as the scripting language for web pages. But it is also used in many environments outside of web browsers
+
 
 
 
