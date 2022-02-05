@@ -208,6 +208,32 @@ who prepared the project: surname, first name, email address and photo.</li>
   ![](https://raw.githubusercontent.com/souha-ila/APP/main/supprimer.png)
  
 
+   ### s'inscrire
    
+   If you click on sinscrir the following form will be displayed
+   
+   ![](https://raw.githubusercontent.com/souha-ila/APP/main/sinscrire.PNG)
+   
+   Automatically the information will be recorded in the user table
+   
+   ![](https://github.com/souha-ila/APP/blob/main/image_2022-02-05_203838.png)
+   
+  ### Que suis-je?
+  
+   If you click on Que suis-je?  the following information will be displayed:
+   
+   ![](https://raw.githubusercontent.com/souha-ila/APP/main/ezgif.com-gif-maker.gif)
+   
+   ### contact
+   
+   If you click on contact the following form will be displayed
+   
+  ![](https://raw.githubusercontent.com/souha-ila/APP/main/Contact.PNG)
+  
+  and by the same way the information will be saved in messsage table.
+  
+  ### About
+  
+   If you click on About the following page will be displayed
    
   
