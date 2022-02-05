@@ -71,17 +71,17 @@ MAMP is a free, local server environment that can be installed under macOS and W
 
 ![visual](https://lesjoiesducode.fr/content/045/vs-code-logo.png)
 
-Visual Studio Code est un éditeur de code extensible développé par Microsoft pour Windows, Linux et macOS2.
+Visual Studio Code is an extensible code editor developed by Microsoft for Windows, Linux, and macOS2.
 
-Les fonctionnalités incluent la prise en charge du débogage, la mise en évidence de la syntaxe, la complétion intelligente du code, les snippets, la refactorisation du code et Git intégré. Les utilisateurs peuvent modifier le thème, les raccourcis clavier, les préférences et installer des extensions qui ajoutent des fonctionnalités supplémentaires.
+Features include debugging support, syntax highlighting, smart code completion, snippets, code refactoring, and Git built-in. Users can change the theme, hotkeys, preferences, and install extensions that add additional functionality.
 
-Le code source de Visual Studio Code provient du projet logiciel libre et open source VSCode de Microsoft publié sous la licence MIT permissive, mais les binaires compilés constituent un freeware, c'est-à-dire un logiciel gratuit pour toute utilisation mais privateur.
+The source code for Visual Studio Code comes from Microsoft's VSCode free and open source software project released under the permissive MIT License, but the compiled binaries are freeware, that is, software free for any use but proprietary.
 
 ### [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
 
 ![HTML](https://www.develop4fun.fr/wp-content/uploads/2019/08/html-2.jpg)
 
-Il est utilisé afin de créer et de représenter le contenu d'une page web et sa structure. D'autres technologies sont utilisées avec HTML pour décrire la présentation d'une page (CSS) et/ou ses fonctionnalités interactives (JavaScript).
+It is used to create and represent the content of a web page and its structure. Other technologies are used with HTML to describe the presentation of a page (CSS) and/or its interactive features (JavaScript).
 
 
 ### [PHP](https://fr.wikipedia.org/wiki/PHP)
