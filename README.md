@@ -263,3 +263,9 @@ easily this country
  ![](https://raw.githubusercontent.com/souha-ila/APP/main/Maps.PNG)
  
  ## CONCLUSION
+
+On a personal level, I discovered the vast universe of web development. I was able to touch something much used today.
+In addition, I discovered new tools, as well as a new programming language, and strengthened my programming skills.
+Beyond the intellectual aspect, the human aspect is also important in this project. It is one of my
+iteresting experiences of project management, time management which are fundamental things for
+a future engineer.
