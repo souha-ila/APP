@@ -173,7 +173,35 @@ who prepared the project: surname, first name, email address and photo.</li>
   <li> Contact menu: to contact the site manager by filling out a form</li>
 </ol>
   
+ ### login:
   
+  If you click on login the following page will be displayed
+  
+ ![](https://raw.githubusercontent.com/souha-ila/APP/main/Login.PNG)
+ 
+ After login another page will be displayed
+ 
+ ![](https://raw.githubusercontent.com/souha-ila/APP/main/ajouter.PNG)
+  This page contains two options if we click :
+  The second choise we can view all the news 
+  
+  ![](https://raw.githubusercontent.com/souha-ila/APP/main/voir%20news.png)
+  
+  The first choice we will have the form, which contains
+     the id: to enter the number of the new
+     titre : to enter the title of new
+     resume: summary of the new 
+     contenue: the content of that new
+     date pub: the date of publication of the new
+ 
+ ![](https://raw.githubusercontent.com/souha-ila/APP/main/ajouter%20detail.png)
+ 
+  if we click on add "ajouter" the information will be displayed on the home page
+  
+  ![](https://github.com/souha-ila/APP/blob/main/image_2022-02-05_201321.png)
+  
+  
+ 
 
    
    
