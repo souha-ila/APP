@@ -254,7 +254,7 @@ On the left of the page, there is a browser with the following menus:
  In the page a table is displayed which lists the cities with their Name, Area, Picture
 and People
 
- ![](https://github.com/souha-ila/APP/blob/main/index.gif)
+ ![](https://github.com/souha-ila/APP/blob/main/index3.gif)
  
 - localisation de pays
  the googleMap map is displayed and allows the user to locate
