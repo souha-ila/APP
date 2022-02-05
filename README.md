@@ -242,3 +242,24 @@ who prepared the project: surname, first name, email address and photo.</li>
    
    ![](https://github.com/souha-ila/APP/blob/main/ezgif.com-gif-maker.gif)
   
+On the left of the page, there is a browser with the following menus:
+
+- Sites et Monuments 
+
+ a photo with a brief description is displayed for each monument.
+ 
+ ![](https://github.com/souha-ila/APP/blob/main/TOUR1.PNG)
+
+- Index des villes
+ In the page a table is displayed which lists the cities with their Name, Area, Picture
+and People
+
+ ![](https://github.com/souha-ila/APP/blob/main/index.gif)
+ 
+- localisation de pays
+ the googleMap map is displayed and allows the user to locate
+easily this country
+
+ ![](https://raw.githubusercontent.com/souha-ila/APP/main/Maps.PNG)
+ 
+ ## CONCLUSION
