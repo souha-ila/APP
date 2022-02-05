@@ -1,0 +1,59 @@
+
+.news{
+	height: 100px;
+	width: 400px;
+	float: right;
+	display: block;
+	text-align: center;
+	border-left: 0px;
+}
+
+.vi{
+	height: 120px;
+	width: 400px;
+	border: 2px solid black;
+	margin-bottom:  5px;
+	padding-top: 0px;
+	font-size: 10px;
+	background-color: black;
+}
+
+.news h1{
+  color: red;
+  text-transform: uppercase;
+  font-weight: 50px;
+}
+
+.vi h3{
+  color: red;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 50px;
+}
+
+.vi p{
+	font-family: 'trebuchet MS', arial, sans-serif;
+	font-size: 12px;
+	color: white;
+	text-transform: uppercase;
+	font-weight: 50px;
+}
+
+.vi a{
+	text-decoration: none;
+	color: white;
+}
+
+.vi a:hover{
+	color: #69a3b5;
+	border-bottom: 3px solid #69a3b5;
+}
+.news a{
+	text-decoration: none;
+	color: white;
+}
+
+.news a:hover{
+	color: #69a3b5;
+	border-bottom: 3px solid #69a3b5;
+}

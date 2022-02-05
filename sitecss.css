@@ -1,0 +1,198 @@
+body{
+	background-image: url('image/back4.jpg');
+/*    background-color:#facaca;*/
+	background-size: cover; 
+/*	opacity: 10px;*/
+/*	background-position: center;*/
+	font-family: 'trebuchet MS', arial, sans-serif;
+	margin:0;
+}
+
+/*title {
+	color: red;
+}*/
+
+
+
+section h1, footer h1, nav a{
+	font-family: dayrom,serif;
+	font-weight: normal;
+	text-transform: uppercase;
+/*	color:red;*/
+}
+
+
+
+header{
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+
+
+#titre
+{
+	display: flex;
+	flex-direction: column;
+}
+
+#logo{
+	display: flex;
+	flex-direction: row;
+	align-items: baseline;
+
+}
+
+#logo img
+{
+	width: 59PX;
+	height: 59px;
+}
+
+header h1
+{
+	font-family: 'ballparkWeiner',serif;
+	font-size: 2.5em;
+	font-weight: normal;
+	margin: 0 0 0 10px;
+	color: rgb(211, 17, 17);
+}
+
+#acc{
+
+	margin-top: 0;
+	height: 105px;
+}
+/*nav ul
+{
+	list-style-type: none;
+	display: flex;
+	margin-top: 0;
+}
+
+nav li{
+	margin-left: 25px;
+}
+
+
+nav a
+{
+	font-size: 1.3em;
+	color: #5c2a27;
+	text-decoration: none;
+	margin-top: 0;
+}
+
+nav a:hover
+{
+	color: #69a3b5;
+	border-bottom: 3px solid #69a3b5;
+}*/
+
+
+
+
+article img
+
+{
+	width: 59PX;
+	height: 59px;
+}
+
+
+section{
+	display: flex;
+	flex-direction: row-reverse;
+	margin-bottom: 20px;
+
+}
+
+
+article , aside{
+	text-align: justify;
+}
+
+#text
+{
+	margin-left: 50px;
+	margin-right: 20px;
+	float: left;
+}
+
+article{
+	margin-right: 0;
+	flex: 5;
+}
+
+.ico_categorie{
+	vertical-align: middle;
+	margin-right: 8px;
+}
+
+article p
+{
+	font-size:  1em;
+	color: white;
+}
+
+
+/*#d6b8b8*/
+
+aside
+{
+position: relative;
+	background: rgba(218, 7, 7, 0.7);
+	box-shadow: 0PX 2PX 5PX ;
+	margin-right: 0PX;
+	margin-left: 0px;
+	height: 300px;
+	width: 190px;
+	float: left;
+	padding-left: 0; 
+
+}
+
+/*aside ul
+{
+	list-style-type: none;
+}*/
+
+aside li
+{
+	margin-top: 30px;
+    margin-right: 20px;
+    text-align: left;
+}
+
+aside a
+{
+	font-size: 1.1em;
+	color: black;
+	text-decoration: none;
+	margin-left: 5px;
+}
+
+aside a:hover
+{
+	color: #69a3b5;
+	border-bottom: 3px solid #69a3b5;
+}
+
+
+
+
+#video{
+
+	width: 350px;
+	height: 350px;
+	float: right;
+}
+
+ video
+{
+	width: 350px;
+	height: 350px;
+}
+
+
+ 

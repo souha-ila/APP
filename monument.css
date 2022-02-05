@@ -1,0 +1,72 @@
+
+body{
+	margin:5;
+	font-family: 'trebuchet MS', arial, sans-serif;
+	background-color: #eb2b1d;
+}
+
+/*#flex{
+	display: flex;
+}
+*/
+.i1{
+	width: 700px;
+	height: 450px;
+	margin-left: 10px;
+	margin-right: 50px;
+	background-color: white; 
+/*	margin-bottom: 30px;*/
+}
+
+#img1{
+	height: 200px;
+	background: url('image/tour3.jpg');
+	/*background-size: cover;*/
+	background-position: center;
+
+}
+#img2{
+	height: 200px;
+	background: url('image/mosque2.png');
+	/*background-size: cover;*/
+	background-position: center;
+
+}
+#img3{
+	height: 200px;
+	background: url('image/karaouyine.jpg');
+	/*background-size: cover;*/
+	background-position: center;
+
+}
+#img4{
+	height: 200px;
+	background: url('image/11.jpg');
+	/*background-size: cover;*/
+	background-position: center;
+}
+#img5{
+	height: 200px;
+	background: url('image/kasba.jpg');
+	/*background-size: cover;*/
+	background-position: center;
+}
+.text1{
+	height: 200px;
+	text-align: center;
+
+
+}
+
+
+.Ti
+{
+	font-size: 	2em;
+	color: red;
+}
+
+.description
+{
+     font-size: 1.5em;
+     font-family: dayrom,serif;
+}

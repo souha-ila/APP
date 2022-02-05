@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html >
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="quisuisje.css">
+  <link rel="stylesheet" href="nav.css">
+	<title>MAROC</title>
+</head>
+<body>
+		<header>
+				<div id="acc"><nav>
+				<div class="topnav" id="myTopnav">
+				  <a href="siteweb.php" class="active">ACCEUIL</a>
+				  <a href="quisuisje.html">Quisuis-je?</a>
+				  <a href="contact.php">Contact</a>
+				  <a href="about.html">About</a>
+				  <a href="inscrir.php">s'inscrir</a>
+                  <a href="login.php">Login</a>
+			</nav></div>
+		</header>
+
+       
+        <div id="text">
+         <article>
+         
+			   <div id="presentation">
+				<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+				<style>
+				.mySlides {display:none;}
+				</style>
+				<body>
+				
+				
+				<div class="w3-content w3-section" style="max-width:400px">
+				  <img class="mySlides w3-animate-top" src="image/1.jpg" style="width:100%">
+				  <img class="mySlides w3-animate-bottom" src="image/2.jpg" style="width:100%">
+				  <img class="mySlides w3-animate-top" src="image/3.jpg" style="width:100%">
+				  <img class="mySlides w3-animate-bottom" src="image/4.jpg" style="width:100%">
+				</div>
+				
+				<script>
+				var myIndex = 0;
+				carousel();
+				
+				function carousel() {
+				  var i;
+				  var x = document.getElementsByClassName("mySlides");
+				  for (i = 0; i < x.length; i++) {
+					x[i].style.display = "none";  
+				  }
+				  myIndex++;
+				  if (myIndex > x.length) {myIndex = 1}    
+				  x[myIndex-1].style.display = "block";  
+				  setTimeout(carousel, 2500);    
+				}
+				</script>
+ </div>
+         </article>
+        </div>
+               </section>
+			   <!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="card">
+  <img src="image/me.jpg" alt="Souhaila" style="width:50%">
+  <h1>OUNAR Souhaila</h1>
+  <p class="title">EIDIA</p>
+  <p>UEMF University</p>
+  
+  <a href="#"><i class="fa fa-twitter"></i> </a>
+  <a href="#"><i class="fa fa-linkedin"></i></a>
+  <a href="#"><i class="fa fa-facebook"></i></a>
+  <p><button>  <a href="contact.php">Contact</a> </button></p>
+</div>
+
+			  
+
+
+	
+</body>
+</html>

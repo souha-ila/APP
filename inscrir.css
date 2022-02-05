@@ -1,0 +1,54 @@
+#inscri{
+	border: 1px solid black;
+	width: 700px;
+	height: 400px;
+	margin-left: 57px;
+	margin-right: 50px; 
+	text-align: center;
+	background: rgba(0, 0, 0, 0.5);
+  }
+
+.inscri h1{
+  color: white;
+  text-transform: uppercase;
+  font-weight: 50px;
+
+}
+
+.inscrir input[type = "text"]{
+  border: 0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #f12525;
+  padding: 15px 15px;
+  outline: none;
+  color: white;
+  border-radius: 13px;
+  transition: 0.25s;
+}
+
+.inscrir input[type = "text"]:hover{
+  width: 300px;
+  border-color: #db1b0e;
+}
+
+.inscrir input[type = "submit"]{
+   border: 0;
+  background: none;
+  display: block;
+  margin: 10px auto;
+  text-align: center;
+  border: 2px solid  #99afc7;
+  padding: 13px 13px;
+  outline: none;
+  color: white;
+  border-radius: 14px;
+  transition: 0.25s;
+
+}
+
+.inscrir input[type = "submit"]:hover{
+	background-color: #cc4e2e;
+}

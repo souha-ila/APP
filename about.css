@@ -1,0 +1,29 @@
+.about{
+	width: 700px;
+	height: 400px;
+	
+	margin-right: 35px;
+	background: rgba(0, 0, 0, 0.5);
+}
+
+.about ul{
+	list-style-type: none;
+}
+
+.about li{
+	margin-top: 17px;
+    text-align: center;
+
+}
+
+.about a{
+	font-size: 1.4em;
+	text-decoration: none;
+	color: white;
+}
+
+.about a:hover
+{
+	color: #69a3b5;
+	border-bottom: 3px solid #69a3b5;
+}

@@ -1,0 +1,31 @@
+.about{
+	width: 700px;
+	height: 250px;
+	border: 1px solid black; 
+	margin-right: 35px;
+	background-color: black;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.new{
+  color: red;
+  text-transform: uppercase;
+  font-weight: 50px;
+  font-size: 30px;
+}
+
+.about h3{
+	color: red;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 50px;
+}
+
+.about p{
+	font-family: 'trebuchet MS', arial, sans-serif;
+	font-size: 16px;
+	color: white;
+	text-transform: uppercase;
+	font-weight: 50px;
+}
