@@ -222,7 +222,7 @@ who prepared the project: surname, first name, email address and photo.</li>
   
    If you click on Que suis-je?  the following information will be displayed:
    
-   ![](https://raw.githubusercontent.com/souha-ila/APP/main/ezgif.com-gif-maker.gif)
+   ![](https://github.com/souha-ila/APP/blob/main/contact%20infoo.gif)
    
    ### contact
    
