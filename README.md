@@ -156,5 +156,25 @@ The site home page is as follows:
   
   ![](https://raw.githubusercontent.com/souha-ila/APP/main/image_2022-02-05_193204.png)
   
+  <ol>
+  <li> 
+  login: its for the admin login
+ </li>
+    <li> 
+ s'inscrir: for visitor registration
+ </li>
+  <li> 
+  Acceuil: links to the site home page
+ </li>
+  <li> About site menu: is for displaying the site plan in the center of the page: different
+menus</li>
+  <li> Que suis-je? to display personal information about
+who prepared the project: surname, first name, email address and photo.</li>
+  <li> Contact menu: to contact the site manager by filling out a form</li>
+</ol>
   
+  
+
+   
+   
   
