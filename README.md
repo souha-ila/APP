@@ -126,6 +126,20 @@ JavaScript (often abbreviated as "JS") is a lightweight, object-oriented scripti
 ###  Use case diagram
 
 
+![usecase](https://raw.githubusercontent.com/souha-ila/APP/main/1Use%20Case.PNG)
+
+###  Context diagram
+
+![context](https://raw.githubusercontent.com/souha-ila/APP/main/context%20diagram.png)
+
+###  Sequence diagram 
+
+![seq](https://raw.githubusercontent.com/souha-ila/APP/main/admin.png)
+
+###  Class diagram 
+
+![](https://raw.githubusercontent.com/souha-ila/APP/main/classe.png)
+
 
 
 
