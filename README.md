@@ -182,12 +182,7 @@ who prepared the project: surname, first name, email address and photo.</li>
  After login another page will be displayed
  
  ![](https://raw.githubusercontent.com/souha-ila/APP/main/ajouter.PNG)
- - This page contains two options if we click :
-  
-  
-  The second choise we can view all the news 
-  
-  ![](https://raw.githubusercontent.com/souha-ila/APP/main/voir%20news.png)
+ This page contains two options if we click :
   
  - The first choice we will have the form, which contains
   
@@ -203,7 +198,14 @@ who prepared the project: surname, first name, email address and photo.</li>
   
   ![](https://github.com/souha-ila/APP/blob/main/image_2022-02-05_201321.png)
   
+   - The second choise we can view all the news 
   
+  ![](https://raw.githubusercontent.com/souha-ila/APP/main/voir%20news.png)
+  
+  and of course if we want modify or delete the news we can do it
+  
+  for example if we check on delete the following form will be displayed, then we click on "suprimmer":
+  ![](https://raw.githubusercontent.com/souha-ila/APP/main/supprimer.png)
  
 
    
