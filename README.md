@@ -236,4 +236,9 @@ who prepared the project: surname, first name, email address and photo.</li>
   
    If you click on About the following page will be displayed
    
+   ![](https://raw.githubusercontent.com/souha-ila/APP/main/About.PNG)
+   
+   Right of the page we have a video in a 300 * 300 window which is A documentary about Morocco “image + sound”
+   
+   ![](https://github.com/souha-ila/APP/blob/main/ezgif.com-gif-maker.gif)
   
