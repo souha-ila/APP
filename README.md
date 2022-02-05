@@ -147,4 +147,14 @@ The site home page is as follows:
 
 ![]( https://raw.githubusercontent.com/souha-ila/APP/main/home.png)
 
-
+ At the top of the page we have the Flag of Morocco.
+  This flag, which dates back to 1912, is red with, in its center, a green pentacle (five-pointed star) known as Solomon.
+  Red and green are the traditional colors of Arab flags, although the use of red is more commonly associated with the Arab states of the Persian Gulf. 
+  The pentacle represents the pillars of Islam and five signifies the bond between God and the nation.
+  
+  Below the logo we have the menu of our site which is displayed horizontally
+  
+  ![](https://raw.githubusercontent.com/souha-ila/APP/main/image_2022-02-05_193204.png)
+  
+  
+  
