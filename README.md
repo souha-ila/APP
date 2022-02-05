@@ -27,13 +27,13 @@ May all those who have left their mark on the accomplishment of this work, from 
 ## Abstract 
 
 Our project consists of the creation, analysis, design and implementation of a dynamic website
- of Morocco. To carry out our work, we divided the project into several stages.
+ of Morocco. To carry out our work, I divided the project into several stages.
  
- At the beginning, we defined the general context of the project, and we adopted as a project management approach, The Unified Modelling Language **(UML)**, which is a graphic modelling language based on pictograms designed as a standardized method of visualization, in the areas of software development and object-oriented design.
+ At the beginning, i defined the general context of the project, and i adopted as a project management approach, The Unified Modelling Language **(UML)**, which is a graphic modelling language based on pictograms designed as a standardized method of visualization, in the areas of software development and object-oriented design.
  
- Then, we approached the design phase to properly structure the business layer of our application.
+ Then, I approached the design phase to properly structure the business layer of the application.
  
- Finally, the last step was the realization and the implementation of  our APP.
+ Finally, the last step was the realization and the implementation of  the APP.
  
  
 ## Abreviations list 
