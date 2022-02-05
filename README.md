@@ -51,9 +51,9 @@ Our project consists of the creation, analysis, design and implementation of a d
                                                                          
 
   Our project is a project which is summed up in an application which is used to introducing Morocco and its historical monuments, 
-   it has two users who can connect with, the Admin who have the power and task of creation, modify, and delete  the news and the client who watch the news .
+   it has two users who can connect with, the Admin who have the power and task of creation, modify, and delete  the news. And the client who watch the news .
 
-Both users have the PROFILE option which allows clients  to view data or news  allows the admin to modify it through access from a Username and Password.
+Both users have the PROFILE option which allows clients  to view data or news, and allows the admin to modify it through access from a Username and Password.
 
 The purpose of this application is to delivers unique content on Culture, Countries and Travel from around the country .
 
