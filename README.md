@@ -182,17 +182,20 @@ who prepared the project: surname, first name, email address and photo.</li>
  After login another page will be displayed
  
  ![](https://raw.githubusercontent.com/souha-ila/APP/main/ajouter.PNG)
-  This page contains two options if we click :
+ - This page contains two options if we click :
+  
+  
   The second choise we can view all the news 
   
   ![](https://raw.githubusercontent.com/souha-ila/APP/main/voir%20news.png)
   
-  The first choice we will have the form, which contains
-     the id: to enter the number of the new
-     titre : to enter the title of new
-     resume: summary of the new 
-     contenue: the content of that new
-     date pub: the date of publication of the new
+ - The first choice we will have the form, which contains
+  
+   - the id: to enter the number of the new
+   - titre : to enter the title of new
+   - resume: summary of the new 
+   - contenue: the content of that new
+   - date pub: the date of publication of the new
  
  ![](https://raw.githubusercontent.com/souha-ila/APP/main/ajouter%20detail.png)
  
