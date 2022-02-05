@@ -21,7 +21,7 @@ he did me the honor of accepting to judge this work.
 
 my thanks also go to the entire teaching staff of **EIDIA**, for the quality of their teaching as well as their availability throughout this training year.
 
-May all those who have left their mark on the accomplishment of this work, from near and far, find the expression of our warmest **thanks**.
+May all those who have left their mark on the accomplishment of this work, from near and far, find the expression of my warmest **thanks**.
 
 
 ## Abstract 
